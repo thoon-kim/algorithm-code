@@ -1,4 +1,4 @@
-package programmers.skillcheck
+package programmers.skillcheck.level1
 
 class Programmers2544 {
 
